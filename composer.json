@@ -1,0 +1,6 @@
+{
+    "require": {
+        "transbank/transbank-sdk": "^1.5",
+        "freshwork/transbank": "^1.1"
+    }
+}
